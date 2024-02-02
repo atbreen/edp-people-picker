@@ -1,5 +1,4 @@
-{
-  "people": [
+[    
     {
       "id": 1,
       "name": "Brian Murray",
@@ -88,7 +87,7 @@
     {
       "id": 18,
       "name": "Kays Cetin",
-      "picture": "/images/kays.png"
+      "picture": ""
     },
     {
       "id": 19,
@@ -105,5 +104,4 @@
       "name": "Ola Ekdahl",
       "picture": "/images/ola.jpg"
     }
-  ]
-}
+]
